@@ -6,9 +6,9 @@
 <div align="center">
   
   <!-- صورة شخصية متحركة -->
-  <img src="./assets/profile.gif" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7;" />
+  <img src="./assets/profile.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7;" />
   
-  <h1>أبا الفضل | Abaalfadeel</h1>
+  <h1>أباالفضل | Abaalfadeel</h1>
   
   <!-- شارات -->
   <p>
