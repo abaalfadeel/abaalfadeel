@@ -94,8 +94,13 @@
 
 <p align="center">
   <a href="https://abaalfadel.com">
-    <img src="./assets/m1.png" alt="My Website" width="320"/>
+    <img src="./assets/m1.png" alt="My Website" width="420"/>
   </a>
+</p>
+
+
+<p align="center">
+  <sub>👆🏻Click on the image to go to my website👆🏻</sub>
 </p>
 
 ---
