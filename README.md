@@ -1,12 +1,12 @@
-<!-- صور البداية والنهاية فقط من الأصول -->
+<!-- صور متحركة من مجلد assets في المستودع -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Banner Animation" width="100%" height="250px" />
+  <img src="./assets/banner.gif" alt="Animated Banner" width="100%" height="300px" />
 </p>
 
 <div align="center">
   
-  <!-- صورة شخصية -->
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 30px rgba(54, 188, 247, 0.4); animation: float 3s ease-in-out infinite;" alt="Profile Picture" />
+  <!-- صورة شخصية متحركة -->
+  <img src="./assets/profile.gif" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7;" />
   
   <h1>أبا الفضل | Abaalfadeel</h1>
   
@@ -24,19 +24,22 @@
 
 <br>
 
-<!-- قسم نبذة عني -->
+<!-- قسم حولي مع تصميم أفضل -->
 <div align="center">
   <div style="max-width: 800px; text-align: right; direction: rtl; padding: 25px; background: linear-gradient(135deg, rgba(54, 188, 247, 0.1) 0%, rgba(54, 188, 247, 0.05) 100%); border-radius: 20px; border-right: 5px solid #36BCF7; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
     <h3>🚀 نبذة عني</h3>
     <div style="text-align: right; line-height: 2.5; margin-top: 20px;">
       <p>
-        <span style="font-weight: bold; color: #36BCF7;">👨‍💻 مطور متحمس:</span> أسعى دائمًا لاكتشاف آفاق جديدة في عالم البرمجة والتطوير
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" style="vertical-align: middle; margin-left: 10px;">
+        <span style="font-weight: bold; color: #36BCF7;">مطور متحمس:</span> أسعى دائمًا لاكتشاف آفاق جديدة في عالم البرمجة والتطوير
       </p>
       <p>
-        <span style="font-weight: bold; color: #36BCF7;">📱 تخصصي:</span> أتخصص في تطوير تطبيقات الموبايل باستخدام Flutter
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="35" style="vertical-align: middle; margin-left: 10px;">
+        <span style="font-weight: bold; color: #36BCF7;">تخصصي:</span> أتخصص في تطوير تطبيقات الموبايل باستخدام Flutter
       </p>
       <p>
-        <span style="font-weight: bold; color: #36BCF7;">🌍 طموحي:</span> استكشاف أحدث تقنيات الذكاء الاصطناعي وتطبيقاتها العملية
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20with%20Meridians.png" width="35" style="vertical-align: middle; margin-left: 10px;">
+        <span style="font-weight: bold; color: #36BCF7;">طموحي:</span> استكشاف أحدث تقنيات الذكاء الاصطناعي وتطبيقاتها العملية
       </p>
     </div>
   </div>
@@ -44,78 +47,152 @@
 
 <br>
 
-<!-- اللغات بأيقونات 3D تدور -->
+<!-- المهارات التقنية بأيقونات منفردة ومتحركة -->
 <div align="center">
-  <h3>💻 اللغات البرمجية</h3>
-  <div class="skills-container">
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon-3d" />
-      <br><span>Python</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" class="icon-3d" />
-      <br><span>Dart</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="icon-3d" />
-      <br><span>JavaScript</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" class="icon-3d" />
-      <br><span>C#</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="icon-3d" />
-      <br><span>HTML5</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="icon-3d" />
-      <br><span>CSS3</span>
-    </div>
-  </div>
+  <h3>💻 اللغات والتقنيات التي أستخدمها</h3>
+  
+  <!-- اللغات البرمجية -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Python</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Dart</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>JavaScript</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>C#</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>HTML5</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>CSS3</span>
+      </td>
+      <td align="center">
+        <!-- أيقونة GDScript (لغة Godot) -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>GDScript</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Java</span>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- الأدوات والمكتبات -->
+  <h3>🛠 الأدوات والمكتبات والأطر</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Flutter</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Godot</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Unity</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Blender</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>React</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Node.js</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Firebase</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Git</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>VS Code</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Figma</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>MySQL</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1)'" />
+        <br>
+        <span>Django</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- الأدوات بأيقونات 3D تدور -->
-<div align="center">
-  <h3>🛠 الأدوات والتقنيات</h3>
-  <div class="skills-container">
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" class="icon-3d" />
-      <br><span>Flutter</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" class="icon-3d" />
-      <br><span>Godot</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" class="icon-3d" />
-      <br><span>Unity</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" class="icon-3d" />
-      <br><span>Git</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" class="icon-3d" />
-      <br><span>VS Code</span>
-    </div>
-    <div class="icon-card">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" class="icon-3d" />
-      <br><span>Firebase</span>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<!-- إحصائيات -->
+<!-- إحصائيات GitHub -->
 <div align="center">
   <h3>📊 إحصائيات GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=tokyonight&locale=ar&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="400" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd3o&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="400" />
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=tokyonight&locale=ar&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd3o&layout=compact&theme=tokyonight&locale=ar&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" alt="Top Languages" width="300" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- خط التتابع -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd3o&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" width="500" />
 </div>
 
 <br>
@@ -123,99 +200,57 @@
 <!-- وسائل التواصل -->
 <div align="center">
   <h3>🤝 تواصل معي</h3>
-  <p>
+  
+  <p align="center">
+    <!-- استبدل YOUR_USER بمعلوماتك -->
     <a href="https://instagram.com/YOUR_USER">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+      <img src="./assets/instagram.gif" alt="Instagram" width="50" height="50" style="margin: 0 10px;" />
     </a>
     <a href="https://t.me/YOUR_USER">
-      <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
+      <img src="./assets/telegram.gif" alt="Telegram" width="50" height="50" style="margin: 0 10px;" />
     </a>
     <a href="mailto:abaalfadeel1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+      <img src="./assets/email.gif" alt="Email" width="50" height="50" style="margin: 0 10px;" />
     </a>
+    <a href="https://github.com/xd3o">
+      <img src="./assets/github.gif" alt="GitHub" width="50" height="50" style="margin: 0 10px;" />
+    </a>
+  </p>
+  
+  <!-- تذييل -->
+  <br>
+  <hr width="50%">
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="20" alt="Star">
+    شكرًا لزيارتك لملفي الشخصي
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="20" alt="Star">
+    <br>
+    <sub>آخر تحديث: نوفمبر 2023</sub>
   </p>
 </div>
 
-<br>
-
-<!-- صورة النهاية من الأصول -->
+<!-- صورة في الأسفل -->
 <p align="center">
   <img src="./assets/footer.gif" alt="Footer Animation" width="100%" height="200px" />
 </p>
 
+<!-- إضافة تأثيرات CSS للصور -->
 <style>
-  /* تأثير العوم */
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  img:hover {
+    transform: scale(1.1) rotate(5deg);
+  }
+  
   @keyframes float {
     0% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
+    50% { transform: translateY(-10px); }
     100% { transform: translateY(0px); }
   }
   
-  /* أيقونات 3D تدور */
-  .icon-3d {
-    width: 80px;
-    height: 80px;
-    animation: rotate 20s linear infinite;
-    padding: 15px;
-    background: linear-gradient(145deg, #0d1117, #1a1f29);
-    border-radius: 15px;
-    box-shadow: 
-      10px 10px 20px #0a0e14,
-      -10px -10px 20px #1a1f29,
-      inset 0 0 20px rgba(54, 188, 247, 0.1);
-    border: 2px solid rgba(54, 188, 247, 0.2);
-    transition: all 0.4s ease;
-  }
-  
-  .icon-3d:hover {
-    animation: rotate 5s linear infinite;
-    box-shadow: 
-      15px 15px 30px #0a0e14,
-      -15px -15px 30px #1a1f29,
-      inset 0 0 30px rgba(54, 188, 247, 0.2);
-    border-color: rgba(54, 188, 247, 0.4);
-    transform: scale(1.1);
-  }
-  
-  @keyframes rotate {
-    0% { transform: rotateY(0deg) scale(1); }
-    50% { transform: rotateY(180deg) scale(1.05); }
-    100% { transform: rotateY(360deg) scale(1); }
-  }
-  
-  /* تصميم البطاقات */
-  .icon-card {
-    display: inline-block;
-    text-align: center;
-    margin: 15px;
-    padding: 15px;
-    background: rgba(54, 188, 247, 0.05);
-    border-radius: 15px;
-    border: 1px solid rgba(54, 188, 247, 0.1);
-    transition: all 0.3s ease;
-    min-width: 120px;
-  }
-  
-  .icon-card:hover {
-    transform: translateY(-10px);
-    background: rgba(54, 188, 247, 0.1);
-    border-color: rgba(54, 188, 247, 0.3);
-  }
-  
-  .icon-card span {
-    margin-top: 10px;
-    color: #ffffff;
-    font-weight: bold;
-    display: block;
-  }
-  
-  /* حاوية المهارات */
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    max-width: 1000px;
-    margin: 0 auto;
-    gap: 10px;
+  .floating {
+    animation: float 3s ease-in-out infinite;
   }
 </style>
