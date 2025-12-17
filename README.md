@@ -1,72 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Abaalfadeel&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Abaalfadeel&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Coding.gif" alt="Coding" width="400px"/>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Coding.gif" alt="Coding Animation" width="600px"/>
 </p>
 
-<h1 align="center">مرحباً، أنا أبا الفضل 👋</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=أنا+مبرمج;أنا+مطور+ألعاب;أنا+مطور+تطبيقات;أنا+هاوي+للبرمجة;أنا+محب+لأدوات+الذكاء+الاصطناعي" alt="Typing SVG" />
+</h2>
 
+<br>
+
+<table>
+  <tr>
+    <td>
+      <h3>🚀 حول عني</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" vertical-align="middle" /> <b>أنا أتعلم وليس خبير في مجال البرمجة والتطوير ♡</b>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Phone" width="35" vertical-align="middle" /> <b>التعلم على تطوير تطبيقات الموبايل باستخدام Flutter.</b>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" alt="Globe" width="35" vertical-align="middle" /> <b>أسعى دائمًا لتعلم تقنيات جديدة ومهارات جديدة في التكنولوجيا.</b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">💻 اللغات البرمجية</h3>
 <p align="center">
-  <kbd>Software Developer | App & Game Creator | Open Source Enthusiast</kbd>
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,dart,cs&theme=dark" />
 </p>
 
+<h3 align="center">🛠 الأدوات والمحركات</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passion+for+creating+apps;Building+immersive+games;Learning+new+tech+every+day" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=flutter,godot,unity,blender,figma,vscode,git,github,firebase,pytn&theme=dark" />
 </p>
 
 ---
 
-### 🚀 نبذة عني
-- 💻 مبرمج عصامي شغوف ببناء الحلول البرمجية المتكاملة.
-- 🕹️ مهتم بتطوير الألعاب باستخدام **Unity** و **Godot**.
-- 📱 أعمل على تطوير تطبيقات الموبايل باستخدام **Flutter**.
-- 🌐 أسعى دائماً لتعلم تقنيات جديدة وتحسين مهاراتي في التصميم.
-
----
-
-### 🛠 التقنيات والأدوات (Tech Stack)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,dart,csharp&perline=7" /><br>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,firebase,git,vscode,github&perline=7" />
-</p>
-
----
-
-### 📊 إحصائيات GitHub
+<h3 align="center">🤝 تواصل معي</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd3o&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" height="180px" />
-</p>
-
----
-
-### 🤝 تواصل معي (Connect with Me)
-<p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/YOUR_USER">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40px" />
   </a>
-  <a href="https://t.me/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/YOUR_USER">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" height="40px" />
   </a>
   <a href="mailto:abaalfadeel1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px" />
   </a>
 </p>
 
 ---
 
-### 🎮 استراحة محارب
 <p align="center">
-  <a href="https://pokemon-battler.vercel.app/">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="120px" alt="Pikachu"/>
-  </a>
-  <br>
-  <i>هل تحتاج لاستراحة؟ اضغط على بيكاتشو للعب!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="400px" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/M0zZ3qQ.gif" alt="footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Abas-F/Abas-F/main/assets/pacman.gif" alt="Pacman" width="100%" />
 </p>
