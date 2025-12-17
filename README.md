@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://abaalfadel.com">
-    <img src="./assets/m1.png" alt="My Website" width="260"/>
+    <img src="./assets/m1.png" alt="My Website" width="320"/>
   </a>
 </p>
 
