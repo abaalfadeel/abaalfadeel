@@ -1,28 +1,25 @@
-<!-- ===== HERO / INTRO ===== -->
+<!-- ===== HERO ===== -->
 <p align="center">
   <img src="./assets/g1.gif" alt="Welcome Animation" width="100%" />
 </p>
 
 <div align="center">
 
-  <img src="./assets/profile.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%; border:3px solid #36BCF7;" />
-
   <h1>أباالفضل | Abaalfadeel</h1>
 
   <p>
-    Mobile & Web Developer • Indie Game Dev • Tech Explorer
+    Mobile & Web Developer • Game Developer
   </p>
 
-  <!-- BADGES -->
+  <!-- GITHUB OFFICIAL BADGES -->
   <p>
-    <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter" />
-    <img src="https://img.shields.io/badge/Web-React%20%26%20Node-61DAFB?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/Game-Godot-478CBF?style=for-the-badge&logo=godot-engine" />
-    <img src="https://img.shields.io/badge/AI-Learning-orange?style=for-the-badge&logo=openai" />
+    <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative" />
+    <img src="https://img.shields.io/badge/Continuous-Learning-blue?style=for-the-badge" />
   </p>
 
   <!-- TYPING -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=مطور+تطبيقات+ومواقع;صانع+ألعاب+مستقل;أتعلم+وأبني+مشاريع+حقيقية" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=مطور+تطبيقات+ومواقع;صانع+ألعاب+مستقل;أبني+مشاريع+حقيقية" />
 
   <!-- STATS -->
   <p>
@@ -34,45 +31,25 @@
 
 ---
 
-## 🚀 نبذة مختصرة
-
-<div align="right" dir="rtl">
-
-أنا مطور شغوف أركز على **بناء تطبيقات ومشاريع عملية** بدل الاكتفاء بالتجربة النظرية.
-
-- 📱 تطوير تطبيقات موبايل باستخدام **Flutter**
-- 🌐 تطوير واجهات ومواقع ويب باستخدام **React**
-- 🎮 تطوير ألعاب 2D باستخدام **Godot**
-- 🤖 مهتم بتوظيف الذكاء الاصطناعي في الأدوات والتطبيقات
-
-هدفي هو بناء مشاريع **قابلة للاستخدام والنشر**، مع تحسين مستواي خطوة بخطوة.
-
-</div>
-
----
-
-## 💻 لغات البرمجة
+## 💻 Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55"/>
 </p>
 
 ---
 
-## 🛠 الأدوات والتقنيات
+## 🛠 Tools & Frameworks
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 </p>
 
 ---
@@ -90,19 +67,30 @@
 
 ---
 
-## 🤝 تواصل معي
+## 🌐 Social Links
 
 <p align="center">
-  <a href="https://github.com/abaalfadeel">GitHub</a> •
-  <a href="mailto:abaalfadeel1@gmail.com">Email</a> •
-  <a href="https://t.me/xd_4o">Telegram</a> •
-  <a href="https://instagram.com/prg.fl">Instagram</a>
+  <a href="https://github.com/abaalfadeel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abaalfadeel1@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/xd_4o">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/prg.fl">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>آخر تحديث: ديسمبر 2025</sub>
+  <sub>Last update: December 2025</sub>
 </p>
 
 <p align="center">
