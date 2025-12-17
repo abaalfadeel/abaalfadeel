@@ -1,11 +1,10 @@
-<!-- ===== HERO ===== -->
 <p align="center">
   <img src="./assets/g1.gif" alt="Welcome Animation" width="100%" />
 </p>
 
 <div align="center">
 
-  <h1>أباالفضل | Abaalfadeel</h1>
+  <h1>أباالفضل | Abaalfadel</h1>
 
   <p>
     Mobile • Web • Game Developer
@@ -18,10 +17,9 @@
     <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge" />
   </p>
 
-  <!-- TYPING -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=مطور+تطبيقات+ومواقع;صانع+ألعاب+مستقل;أبني+مشاريع+قابلة+للنشر" />
 
-  <!-- STATS -->
+  
   <p>
     <img src="https://komarev.com/ghpvc/?username=abaalfadeel&color=36BCF7" />
     <img src="https://img.shields.io/github/followers/abaalfadeel?style=social" />
@@ -30,8 +28,6 @@
 </div>
 
 ---
-
-## 💻 Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
@@ -43,8 +39,6 @@
 </p>
 
 ---
-
-## 🛠 Tools & Frameworks
 
 <p align="center">
   <!-- App Development -->
@@ -67,11 +61,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaalfadeel&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaalfadeel&layout=compact&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abaalfadeel&show_icons=true&theme=dark&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaalfadeel&layout=compact&theme=dark&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
@@ -80,23 +72,21 @@
 
 ---
 
-## 🌐 Social & Website
-
 <p align="center">
   <a href="https://github.com/abaalfadeel">
-    <img src="./assets/github.png" width="42"/>
+    <img src="./assets/github.png" width="90"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abaalfadeel1@gmail.com">
-    <img src="./assets/gmail.png" width="42"/>
+    <img src="./assets/gmail.png" width="90"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/xd_4o">
-    <img src="./assets/telegram.png" width="42"/>
+    <img src="./assets/telegram.png" width="90"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/prg.fl">
-    <img src="./assets/instagram.png" width="42"/>
+    <img src="./assets/instagram.png" width="90"/>
   </a>
 </p>
 
