@@ -181,15 +181,11 @@
       <img src="https://img.shields.io/badge/Email-abaalfadeel1@gmail.com-red?logo=gmail" alt="Email" height="40" />
     </a>
     <br>
-    <a href="https://t.me/YOUR_USER">
+    <a href="https://t.me/xd_4o">
       <img src="https://img.shields.io/badge/Telegram-YOUR_USER-blue?logo=telegram" alt="Telegram" height="40" />
     </a>
-    <a href="https://instagram.com/YOUR_USER">
+    <a href="https://instagram.com/prg.USER">
       <img src="https://img.shields.io/badge/Instagram-YOUR_USER-purple?logo=instagram" alt="Instagram" height="40" />
-    </a>
-    <br>
-    <a href="https://www.linkedin.com/in/YOUR_USER">
-      <img src="https://img.shields.io/badge/LinkedIn-YOUR_USER-blue?logo=linkedin" alt="LinkedIn" height="40" />
     </a>
   </p>
   
@@ -201,7 +197,7 @@
     شكرًا لزيارتك لملفي الشخصي
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="20" alt="Star">
     <br>
-    <sub>آخر تحديث: ديسمبر 2023</sub>
+    <sub>آخر تحديث: ديسمبر 2025</sub>
   </p>
 </div>
 
