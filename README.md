@@ -78,7 +78,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abaalfadeel1@gmail.com">
-    <img src="./assets/gmail.png" width="90"/>
+    <img src="./assets/gmail.jpg" width="90"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/xd_4o">
@@ -106,9 +106,11 @@
 ---
 
 <p align="center">
-  <sub>Last update: December 2025</sub>
+  <img src="./assets/g2.gif" alt="Goodbye Animation" width="100%" />
 </p>
 
+---
+
 <p align="center">
-  <img src="./assets/g2.gif" alt="Goodbye Animation" width="100%" />
+  <sub>Last update: December 2025</sub>
 </p>
