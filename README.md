@@ -8,18 +8,18 @@
   <h1>أباالفضل | Abaalfadeel</h1>
 
   <p>
-    Mobile & Web Developer • Game Developer
+    Mobile • Web • Game Developer
   </p>
 
-  <!-- GITHUB OFFICIAL BADGES -->
+  <!-- OFFICIAL GITHUB BADGES -->
   <p>
     <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative" />
-    <img src="https://img.shields.io/badge/Continuous-Learning-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge" />
   </p>
 
   <!-- TYPING -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=مطور+تطبيقات+ومواقع;صانع+ألعاب+مستقل;أبني+مشاريع+حقيقية" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=مطور+تطبيقات+ومواقع;صانع+ألعاب+مستقل;أبني+مشاريع+قابلة+للنشر" />
 
   <!-- STATS -->
   <p>
@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
 </p>
 
 ---
@@ -46,9 +47,21 @@
 ## 🛠 Tools & Frameworks
 
 <p align="center">
+  <!-- App Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/>
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55"/>
+
+  <!-- Game Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 </p>
 
@@ -67,23 +80,31 @@
 
 ---
 
-## 🌐 Social Links
+## 🌐 Social & Website
 
 <p align="center">
   <a href="https://github.com/abaalfadeel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="./assets/github.png" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abaalfadeel1@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="./assets/gmail.png" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/xd_4o">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40"/>
+    <img src="./assets/telegram.png" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/prg.fl">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="./assets/instagram.png" width="42"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://abaalfadel.com">
+    <img src="./assets/m1.png" alt="My Website" width="260"/>
   </a>
 </p>
 
