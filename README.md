@@ -14,10 +14,9 @@
   <p>
     <img src="https://img.shields.io/badge/مطور-تطبيقات موبايل-blue?logo=flutter" alt="Mobile Developer">
     <img src="https://img.shields.io/badge/مطور-ألعاب-green?logo=godot-engine" alt="Game Developer">
-    <img src="https://img.shields.io/badge/مبرمج-ويب-purple?logo=react" alt="Web Developer">
   </p>
   
-  <!-- رسالة ترحيب متحركة -->
+  <!-- رسالة ترحيب -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84;%D9%85%D8%A8%D8%B1%D9%85%D8%AC+%D9%88%D9%8A%D8%A8+%D9%85%D8%AD%D8%AA%D8%B1%D9%81;%D9%85%D8%B7%D9%88%D8%B1+%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D8%A9" alt="Typing SVG" />
   </p>
@@ -26,52 +25,48 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=xd3o&label=زوار الملف&color=36BCF7&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/xd3o?label=متابعين&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/xd3o?label=نجوم&style=social" alt="GitHub Stars" />
   </p>
 </div>
 
 <br>
 
-<!-- قسم حولي باللغة العربية -->
-<div align="right" dir="rtl">
-  <div style="max-width: 800px; margin: 0 auto; padding: 25px; background: linear-gradient(135deg, rgba(54, 188, 247, 0.1) 0%, rgba(54, 188, 247, 0.05) 100%); border-radius: 15px; border-right: 5px solid #36BCF7;">
-    <h3 style="text-align: center; color: #36BCF7;">🚀 عني</h3>
-    <div style="line-height: 2.5; margin-top: 20px;">
-      <div style="display: flex; align-items: center; margin-bottom: 20px;">
-        <div style="margin-left: 15px;">
-          <img src="./assets/f1.gif" alt="مطور" width="50" height="50" style="border-radius: 10px;" />
-        </div>
-        <div style="flex-grow: 1;">
-          <span style="font-weight: bold; color: #36BCF7;">مطور تطبيقات محترف:</span>
-          <p style="margin: 5px 0 0 0; color: #333;">
-            مطور تطبيقات موبايل باستخدام Flutter، متخصص في بناء تطبيقات ذات أداء عالي وتجربة مستخدم ممتازة. أملك خبرة في تطوير تطبيقات Android وiOS.
-          </p>
-        </div>
-      </div>
-      
-      <div style="display: flex; align-items: center; margin-bottom: 20px;">
-        <div style="margin-left: 15px;">
-          <img src="./assets/f2.gif" alt="مبرمج" width="50" height="50" style="border-radius: 10px;" />
-        </div>
-        <div style="flex-grow: 1;">
-          <span style="font-weight: bold; color: #36BCF7;">مبرمج ويب متكامل:</span>
-          <p style="margin: 5px 0 0 0; color: #333;">
-            مبرمج ويب بخبرة في تطوير واجهات أمامية وخلفية باستخدام React وNode.js. أهتم ببناء مواقع سريعة الاستجابة وتجربة مستخدم فعالة.
-          </p>
-        </div>
-      </div>
-      
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <div style="margin-left: 15px;">
-          <img src="./assets/f3.gif" alt="مطور ألعاب" width="50" height="50" style="border-radius: 10px;" />
-        </div>
-        <div style="flex-grow: 1;">
-          <span style="font-weight: bold; color: #36BCF7;">مطور ألعاب مبتكر:</span>
-          <p style="margin: 5px 0 0 0; color: #333;">
-            مطور ألعاب باستخدام Godot وUnity، متخصص في إنشاء ألعاب ثنائية وثلاثية الأبعاد بميكانيكيات لعب مبتكرة وجرافيكس جذاب.
-          </p>
-        </div>
-      </div>
+<!-- قسم عني -->
+<div align="right" dir="rtl" style="max-width: 800px; margin: 0 auto; padding: 20px; background: #f8f9fa; border-radius: 10px; border-right: 4px solid #36BCF7;">
+  <h3 style="text-align: center; color: #36BCF7;">🚀 عني</h3>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="margin-left: 15px;">
+      <img src="./assets/f1.gif" alt="مطور" width="50" height="50" style="border-radius: 10px;" />
+    </div>
+    <div style="flex-grow: 1;">
+      <span style="font-weight: bold; color: #36BCF7;">مطور تطبيقات محترف:</span>
+      <p style="margin: 5px 0 0 0; color: #333;">
+        مطور تطبيقات موبايل باستخدام Flutter، متخصص في بناء تطبيقات ذات أداء عالي وتجربة مستخدم ممتازة. أملك خبرة في تطوير تطبيقات Android وiOS.
+      </p>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="margin-left: 15px;">
+      <img src="./assets/f2.gif" alt="مبرمج" width="50" height="50" style="border-radius: 10px;" />
+    </div>
+    <div style="flex-grow: 1;">
+      <span style="font-weight: bold; color: #36BCF7;">مبرمج ويب متكامل:</span>
+      <p style="margin: 5px 0 0 0; color: #333;">
+        مبرمج ويب بخبرة في تطوير واجهات أمامية وخلفية باستخدام React وNode.js. أهتم ببناء مواقع سريعة الاستجابة وتجربة مستخدم فعالة.
+      </p>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <div style="margin-left: 15px;">
+      <img src="./assets/f3.gif" alt="مطور ألعاب" width="50" height="50" style="border-radius: 10px;" />
+    </div>
+    <div style="flex-grow: 1;">
+      <span style="font-weight: bold; color: #36BCF7;">مطور ألعاب مبتكر:</span>
+      <p style="margin: 5px 0 0 0; color: #333;">
+        مطور ألعاب باستخدام Godot وUnity، متخصص في إنشاء ألعاب ثنائية وثلاثية الأبعاد بميكانيكيات لعب مبتكرة وجرافيكس جذاب.
+      </p>
     </div>
   </div>
 </div>
@@ -79,23 +74,21 @@
 <br>
 
 <!-- قسم موقعي الشخصي -->
-<div align="center">
-  <div style="max-width: 800px; margin: 0 auto; padding: 25px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 193, 7, 0.05) 100%); border-radius: 15px; border-top: 5px solid #FF6B6B;">
-    <h3 style="color: #FF6B6B; margin-bottom: 20px;">🌐 موقعي الشخصي</h3>
-    
-    <a href="https://abaalfadel.com" target="_blank" style="text-decoration: none;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="./assets/s1.png" alt="موقعي الشخصي" width="200" height="150" style="border-radius: 10px; border: 3px solid #FF6B6B; margin-bottom: 15px;" />
-        <div style="background: #FF6B6B; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold; font-size: 1.1rem;">
-          abaalfadel.com
-        </div>
+<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background: #fff0f0; border-radius: 10px; border-top: 4px solid #FF6B6B;">
+  <h3 style="color: #FF6B6B; margin-bottom: 15px;">🌐 موقعي الشخصي</h3>
+  
+  <a href="https://abaalfadel.com" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="./assets/s1.png" alt="موقعي الشخصي" width="200" height="150" style="border-radius: 10px; border: 3px solid #FF6B6B; margin-bottom: 10px;" />
+      <div style="background: #FF6B6B; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold;">
+        abaalfadel.com
       </div>
-    </a>
-    
-    <p style="margin-top: 20px; color: #666; text-align: center;">
-      زوروا موقعي الشخصي لمشاهدة أعمالي ومشاريعي وتجربتي المهنية
-    </p>
-  </div>
+    </div>
+  </a>
+  
+  <p style="margin-top: 15px; color: #666; text-align: center;">
+    زوروا موقعي الشخصي لمشاهدة أعمالي ومشاريعي وتجربتي المهنية
+  </p>
 </div>
 
 <br>
@@ -104,172 +97,76 @@
 <div align="center">
   <h3>💻 لغات البرمجة</h3>
   
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-        <br>
-        <span>Python</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" />
-        <br>
-        <span>Dart</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-        <br>
-        <span>JavaScript</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-        <br>
-        <span>C#</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-        <br>
-        <span>Java</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-        <br>
-        <span>HTML5</span>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </p>
   
   <h3>🛠 الأدوات والتقنيات</h3>
   
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-        <br>
-        <span>Flutter</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" height="50" />
-        <br>
-        <span>Godot</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" />
-        <br>
-        <span>Unity</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-        <br>
-        <span>React</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-        <br>
-        <span>Node.js</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
-        <br>
-        <span>Firebase</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-        <br>
-        <span>VS Code</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-        <br>
-        <span>Git</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
-        <br>
-        <span>Figma</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" />
-        <br>
-        <span>Blender</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" />
-        <br>
-        <span>Django</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-        <br>
-        <span>MySQL</span>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  </p>
 </div>
 
 <br>
 
-<!-- إحصائيات GitHub محسنة -->
+<!-- إحصائيات GitHub -->
 <div align="center">
-  <h3>📊 إحصائيات GitHub المتقدمة</h3>
+  <h3>📊 إحصائيات GitHub</h3>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-    <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=xd3o&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
-    </div>
-  </div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=default&locale=ar&hide_border=true" alt="GitHub Stats" width="400" />
+  </p>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=xd3o&show_icons=true&theme=dark&locale=ar&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=4BFFE5&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450" />
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd3o&layout=compact&theme=dark&locale=ar&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&langs_count=10" alt="Top Languages" width="350" />
-    </div>
-  </div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd3o&layout=compact&theme=default&locale=ar&hide_border=true" alt="Top Languages" width="300" />
+  </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd3o&theme=dark&hide_border=true&background=0d1117&stroke=36BCF7&ring=4BFFE5&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" width="600" />
-  
-  <br><br>
-  
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xd3o&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=36BCF7&line=4BFFE5&point=FFFFFF" alt="GitHub Activity Graph" width="800" />
-  </div>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd3o&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
+  </p>
 </div>
 
 <br>
 
-<!-- وسائل التواصل الاجتماعية المحدثة -->
+<!-- وسائل التواصل -->
 <div align="center">
   <h3>🤝 تواصل معي</h3>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-    <a href="https://github.com/xd3o" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-xd3o-181717?style=for-the-badge&logo=github" alt="GitHub" height="40" />
-    </a>
-    
-    <a href="mailto:abaalfadeel1@gmail.com" target="_blank">
+  <p>
+    <a href="mailto:abaalfadeel1@gmail.com">
       <img src="https://img.shields.io/badge/Email-abaalfadeel1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
     </a>
-    
-    <a href="https://instagram.com/prg.fl" target="_blank">
+    <a href="https://instagram.com/prg.fl">
       <img src="https://img.shields.io/badge/Instagram-prg.fl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
     </a>
-    
-    <a href="https://t.me/xd_4o" target="_blank">
+    <a href="https://t.me/xd_4o">
       <img src="https://img.shields.io/badge/Telegram-xd_4o-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" />
     </a>
-  </div>
+    <a href="https://github.com/xd3o">
+      <img src="https://img.shields.io/badge/GitHub-xd3o-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+    </a>
+  </p>
   
   <!-- تذييل -->
   <br>
-  <hr width="60%" style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #36BCF7, #4BFFE5, transparent);">
+  <hr width="50%">
   <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="25" alt="Star">
-    شكرًا لزيارتك لملفي الشخصي 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="25" alt="Star">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="20" alt="Star">
+    شكرًا لزيارتك لملفي الشخصي
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Star.png" width="20" alt="Star">
   </p>
   <p style="color: #666; margin-top: 10px;">
     ✨ مستعد دائمًا للتعاون في مشاريع جديدة ومبتكرة ✨
@@ -280,6 +177,6 @@
 </div>
 
 <!-- صورة النهاية من الأصول: g2.gif -->
-<p align="center" style="margin-top: 30px;">
-  <img src="./assets/g2.gif" alt="Goodbye Animation" width="100%" height="250px" />
+<p align="center" style="margin-top: 20px;">
+  <img src="./assets/g2.gif" alt="Goodbye Animation" width="100%" height="200px" />
 </p>
