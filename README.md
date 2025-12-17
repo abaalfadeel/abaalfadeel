@@ -23,8 +23,8 @@
   
   <!-- إحصائيات -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=xd3o&label=زوار الملف&color=36BCF7&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/xd3o?label=متابعين&style=social" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=abaalfadeel&label=زوار الملف&color=36BCF7&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/abaalfadeel?label=متابعين&style=social" alt="GitHub Followers" />
   </p>
 </div>
 
