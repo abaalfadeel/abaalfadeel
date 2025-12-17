@@ -10,7 +10,7 @@
   
   <h1>أباالفضل | Abaalfadeel</h1>
   
-  <!-- اللقاب والأوسمة -->
+  <!-- شارات الاحترافية -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
     <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Expert-blue?style=for-the-badge&logo=stackoverflow" alt="Full Stack Developer">
     <img src="https://img.shields.io/badge/Mobile%20Developer-Flutter-blue?style=for-the-badge&logo=flutter" alt="Mobile Developer">
@@ -20,38 +20,28 @@
   
   <!-- الأوسمة المخصصة -->
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="80" height="24">
-      <style>
-        tspan { fill: #24292F; }
-        @media (prefers-color-scheme: dark) { tspan { fill: #0D1117; } }
-      </style>
-      <rect width="30" height="20" fill="#E1E4E4" rx="10" ry="10"/>
-      <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" fill="#24292F" font-family="system-ui" font-size="12" font-weight="600">
-        <tspan>x3</tspan>
-      </text>
-    </svg>
+    <!-- Badge 1 -->
+    <div style="display: inline-flex; align-items: center; background: #E1E4E4; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px;">
+      <span style="color: #24292F;">x3</span>
+    </div>
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="80" height="24">
-      <style>
-        tspan { fill: #24292F; }
-        @media (prefers-color-scheme: dark) { tspan { fill: #0D1117; } }
-      </style>
-      <rect width="30" height="20" fill="#F9BFA7" rx="10" ry="10"/>
-      <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" fill="#24292F" font-family="system-ui" font-size="12" font-weight="600">
-        <tspan>x2</tspan>
-      </text>
-    </svg>
+    <!-- Badge 2 -->
+    <div style="display: inline-flex; align-items: center; background: #F9BFA7; padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px;">
+      <span style="color: #24292F;">x2</span>
+    </div>
     
-    <div style="display: inline-flex; align-items: center; background: linear-gradient(45deg, #FFD700, #FFA500); padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 12px;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" style="margin-right: 5px;">
-        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="white"></path>
+    <!-- GitHub Star Badge -->
+    <div style="display: inline-flex; align-items: center; background: linear-gradient(45deg, #FFD700, #FFA500); padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 16" style="margin-right: 5px;" fill="white">
+        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
       </svg>
       <span style="color: white;">GitHub Star</span>
     </div>
     
-    <div style="display: inline-flex; align-items: center; background: linear-gradient(45deg, #333, #000); padding: 2px 10px; border-radius: 12px; font-weight: bold; font-size: 12px;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" style="margin-right: 5px;">
-        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="white"></path>
+    <!-- Top Contributor Badge -->
+    <div style="display: inline-flex; align-items: center; background: linear-gradient(45deg, #333, #000); padding: 4px 12px; border-radius: 12px; font-weight: bold; font-size: 12px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 16" style="margin-right: 5px;" fill="white">
+        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
       </svg>
       <span style="color: white;">Top Contributor</span>
     </div>
@@ -105,150 +95,113 @@
 <div align="center">
   <h2 style="color: #2C3E50; margin-bottom: 30px;">💻 لغات البرمجة</h2>
   
-  <table align="center" style="border-spacing: 20px; border-collapse: separate;">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-        <br>
-        <strong>Python</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" />
-        <br>
-        <strong>Dart</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-        <br>
-        <strong>JavaScript</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
-        <br>
-        <strong>TypeScript</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
-        <br>
-        <strong>HTML5</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
-        <br>
-        <strong>CSS3</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
-        <br>
-        <strong>Java</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" />
-        <br>
-        <strong>Kotlin</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" height="60" />
-        <br>
-        <strong>Swift</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
-        <br>
-        <strong>C++</strong>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 900px; margin: 0 auto;">
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Python</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Dart</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">JavaScript</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">TypeScript</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">HTML5</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">CSS3</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Java</strong>
+    </div>
+  </div>
   
   <br><br>
   
   <h2 style="color: #2C3E50; margin-bottom: 30px;">🛠 الأدوات والتقنيات</h2>
   
-  <table align="center" style="border-spacing: 20px; border-collapse: separate;">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />
-        <br>
-        <strong>Flutter</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60" height="60" />
-        <br>
-        <strong>Godot</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60" />
-        <br>
-        <strong>Unity</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
-        <br>
-        <strong>React</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
-        <br>
-        <strong>Node.js</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />
-        <br>
-        <strong>VS Code</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
-        <br>
-        <strong>Git</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
-        <br>
-        <strong>Firebase</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" />
-        <br>
-        <strong>Figma</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60" />
-        <br>
-        <strong>Blender</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
-        <br>
-        <strong>Docker</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
-        <br>
-        <strong>MongoDB</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
-        <br>
-        <strong>MySQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
-        <br>
-        <strong>PostgreSQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" />
-        <br>
-        <strong>Express.js</strong>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: 0 auto;">
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Flutter</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Godot</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Unity</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">React</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Node.js</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">VS Code</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Git</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Firebase</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Figma</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Blender</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Express.js</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">MongoDB</strong>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+      <strong style="margin-top: 8px;">Docker</strong>
+    </div>
+  </div>
 </div>
 
 <br><br>
@@ -258,21 +211,27 @@
   <h2 style="color: white; margin-bottom: 30px;">📊 إحصائيات GitHub</h2>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-    <div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 300px;">
+    <div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 300px; backdrop-filter: blur(10px);">
       <img src="https://github-readme-stats.vercel.app/api?username=abaalfadeel&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=2C3E50&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" width="100%" />
     </div>
     
-    <div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 300px;">
+    <div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 300px; backdrop-filter: blur(10px);">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaalfadeel&layout=compact&theme=dark&locale=en&hide_border=true&bg_color=2C3E50&title_color=36BCF7&text_color=ffffff" alt="Top Languages" width="100%" />
     </div>
   </div>
   
-  <div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaalfadeel&theme=dark&hide_border=true&background=2C3E50&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" width="100%" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); backdrop-filter: blur(10px);">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaalfadeel&theme=dark&hide_border=true&background=2C3E50&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" width="100%" />
+    </div>
+    
+    <div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); backdrop-filter: blur(10px);">
+      <img src="https://github-profile-trophy.vercel.app/?username=abaalfadeel&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+    </div>
   </div>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 30px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=abaalfadeel&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <div style="margin-top: 30px;">
+    <img src="https://activity-graph.herokuapp.com/graph?username=abaalfadeel&theme=react-dark&bg_color=2C3E50&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="90%" />
   </div>
 </div>
 
@@ -282,37 +241,42 @@
 <div align="center">
   <h2 style="color: #2C3E50; margin-bottom: 30px;">🤝 تواصل معي</h2>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-    <a href="https://github.com/abaalfadeel" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: linear-gradient(45deg, #333, #000); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
+    <!-- GitHub -->
+    <a href="https://github.com/abaalfadeel" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #333; color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" style="margin-right: 10px;" />
         GitHub
       </div>
     </a>
     
+    
     <a href="mailto:abaalfadeel1@gmail.com" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: linear-gradient(45deg, #EA4335, #D14836); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; background: #EA4335; color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" height="24" style="margin-right: 10px;" />
         Gmail
       </div>
     </a>
     
-    <a href="https://t.me/xd_4o" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: linear-gradient(45deg, #0088cc, #26A5E4); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <!-- Telegram -->
+    <a href="https://t.me/xd_4o" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0088cc; color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="24" height="24" style="margin-right: 10px;" />
         Telegram
       </div>
     </a>
     
-    <a href="https://instagram.com/prg.fl" style="text-decoration: none;">
+    <!-- Instagram -->
+    <a href="https://instagram.com/prg.fl" target="_blank" style="text-decoration: none;">
       <div style="display: flex; align-items: center; background: linear-gradient(45deg, #E4405F, #C13584); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="24" height="24" style="margin-right: 10px;" />
         Instagram
       </div>
     </a>
     
-    <a href="https://linkedin.com/in/yourusername" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: linear-gradient(45deg, #0077B5, #00A0DC); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0077B5; color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" style="margin-right: 10px;" />
         LinkedIn
       </div>
